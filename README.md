@@ -1,4 +1,6 @@
 ### Hi there 👋
+![](https://github-readme-stats.vercel.app/api?username=shun-ideguchi&count_private=true&show_icons=true&theme=dracula)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shun-ideguchi&layout=compact&theme=dracula)
 
 <!--
